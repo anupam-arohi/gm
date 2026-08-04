@@ -1,2 +1,2 @@
 # gm
-Guided Meditations
+Redirect to Guided Meditations latest event.
